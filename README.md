@@ -14,7 +14,6 @@ The analysis was performed using **MySQL for data cleaning & exploration** and *
 ## Tools & Technologies
 - **MySQL** – Data cleaning and transformation  
 - **Power BI** – Dashboard creation and visualization  
-- **Excel (CSV)** – Data validation  
 
 ## Data Cleaning (MySQL)
 - Removed duplicate records using `ROW_NUMBER()`  
